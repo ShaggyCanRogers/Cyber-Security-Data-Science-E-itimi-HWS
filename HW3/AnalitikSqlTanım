@@ -1,0 +1,9 @@
+Analitik SQL, verileri analiz etmek, özetlemek ve raporlamak için kullanılan bir SQL uygulamasıdır. Genellikle büyük veri setleriyle çalışır ve veritabanlarındaki verilerin derinlemesine incelenmesini sağlar. Analitik SQL'in bazı kullanım alanları şunlardır:
+
+Veri analizi: Analitik SQL, veritabanında depolanan verileri analiz etmek için kullanılır. Örneğin, trend analizi, pazar segmentasyonu, performans ölçümü gibi iş analizlerinde kullanılabilir.
+
+İş zekası raporlama: Analitik SQL, işletmelerin verileri görselleştirmesine ve raporlamasına yardımcı olur. Kullanıcılar, SQL sorguları kullanarak iş zekası raporları oluşturabilir ve verileri anlamlı bilgilere dönüştürebilir.
+
+Büyük veri analitiği: Analitik SQL, büyük veri setlerinin analizinde etkili bir şekilde kullanılabilir. Veritabanındaki büyük miktardaki verileri filtrelemek, özetlemek ve ilişkileri incelemek için kullanılabilir.
+
+Veri madenciliği: Analitik SQL, veri madenciliği süreçlerinde de kullanılır. Veritabanındaki verileri analiz ederek, desenleri, ilişkileri ve eğilimleri belirlemek için kullanılır.
